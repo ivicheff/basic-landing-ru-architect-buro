@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import type { FilterOption } from "~/components/block/gallery-list-block";
 import { Badge } from "~/components/ui/badge";
 import {
   Dialog,
@@ -18,22 +19,29 @@ interface GalleryDialogProps {
   onOpenChange: (open: boolean) => void;
 }
 
+interface GalleryFilters {
+  subcategories?: FilterOption[];
+  styles?: FilterOption[];
+  locations?: FilterOption[];
+  status?: FilterOption[];
+}
+
 export function GalleryDialog({
   item,
   open,
   onOpenChange,
 }: GalleryDialogProps) {
-  const { filters = {} } = contentData.gallery;
+  const { filters = {} as GalleryFilters } = contentData.gallery;
 
   // Функция для получения названия параметра по его id
   const getNameById = (
-    filterType: "subcategories" | "styles" | "locations" | "status",
+    filterType: keyof GalleryFilters,
     id?: string,
   ): string => {
     if (!id) return "";
 
-    const options = filters[filterType] || [];
-    const found = options.find((option: any) => option.id === id);
+    const options = filters[filterType] ?? [];
+    const found = options?.find((option) => option.id === id);
     return found ? found.name : "";
   };
 
