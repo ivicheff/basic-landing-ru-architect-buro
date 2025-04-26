@@ -1,57 +1,158 @@
 "use client";
 
-import { useState } from "react";
-import { Badge } from "~/components/ui/badge";
+import { useMemo, useState } from "react";
 import { GalleryCard, type GalleryItem } from "~/components/ui/gallery-card";
 import { GalleryDialog } from "~/components/ui/gallery-dialog";
+import { Label } from "~/components/ui/label";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "~/components/ui/select";
 import { contentData } from "~/lib/content-data";
-import { cn } from "~/lib/utils";
 
-type Category = {
+export type FilterOption = {
   id: string;
   name: string;
 };
 
-interface GalleryListBlockProps {
+export interface GalleryListBlockProps {
   galleryItems: GalleryItem[];
-  categories: Category[];
+  categories: FilterOption[];
+  filters?: {
+    subcategories?: FilterOption[];
+    styles?: FilterOption[];
+    locations?: FilterOption[];
+    status?: FilterOption[];
+  };
 }
 
 const GalleryListBlock = ({
   galleryItems,
   categories,
+  filters = {},
 }: GalleryListBlockProps) => {
   const [activeImage, setActiveImage] = useState<GalleryItem | null>(null);
-  const [activeCategory, setActiveCategory] = useState<string>("all");
+  const [activeFilters, setActiveFilters] = useState({
+    category: "all",
+    subcategory: "all",
+    style: "all",
+    location: "all",
+    status: "all",
+  });
 
   // Получаем текст сообщения при отсутствии элементов из content.ru.json
   const { emptyFilterMessage } = contentData.gallery;
 
-  // Фильтрация элементов галереи по категории
-  const filteredItems =
-    activeCategory === "all"
-      ? galleryItems
-      : galleryItems.filter(
-          (item: GalleryItem) => item.category === activeCategory,
-        );
+  // Фильтрация элементов галереи по всем активным фильтрам
+  const filteredItems = useMemo(() => {
+    return galleryItems.filter((item: GalleryItem) => {
+      // Проверяем категорию
+      if (
+        activeFilters.category !== "all" &&
+        item.category !== activeFilters.category
+      ) {
+        return false;
+      }
+
+      // Проверяем подкатегорию
+      if (
+        activeFilters.subcategory !== "all" &&
+        item.subcategory !== activeFilters.subcategory
+      ) {
+        return false;
+      }
+
+      // Проверяем стиль
+      if (activeFilters.style !== "all" && item.style !== activeFilters.style) {
+        return false;
+      }
+
+      // Проверяем местоположение
+      if (
+        activeFilters.location !== "all" &&
+        item.location !== activeFilters.location
+      ) {
+        return false;
+      }
+
+      // Проверяем статус
+      if (
+        activeFilters.status !== "all" &&
+        item.status !== activeFilters.status
+      ) {
+        return false;
+      }
+
+      return true;
+    });
+  }, [galleryItems, activeFilters]);
+
+  // Обработчик изменения фильтра
+  const handleFilterChange = (filterType: string, value: string) => {
+    setActiveFilters((prev) => ({
+      ...prev,
+      [filterType]: value,
+    }));
+  };
+
+  // Функция создания Select компонента для фильтрации
+  const renderFilterSelect = (
+    filterType: string,
+    label: string,
+    options?: FilterOption[],
+  ) => {
+    if (!options || options.length === 0) return null;
+
+    return (
+      <div className="w-full min-w-[200px] sm:flex-1">
+        <Label htmlFor={`filter-${filterType}`} className="pl-1 mb-2 block">
+          {label}
+        </Label>
+        <Select
+          value={activeFilters[filterType as keyof typeof activeFilters]}
+          onValueChange={(value) => handleFilterChange(filterType, value)}
+        >
+          <SelectTrigger id={`filter-${filterType}`} className="w-full">
+            <SelectValue placeholder={`Выберите ${label.toLowerCase()}`} />
+          </SelectTrigger>
+          <SelectContent className="min-w-[200px]">
+            <SelectItem value="all">Все</SelectItem>
+            {options.map((option) => (
+              <SelectItem key={option.id} value={option.id}>
+                {option.name}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      </div>
+    );
+  };
 
   return (
     <>
-      {/* Фильтры категорий */}
-      <div className="flex flex-wrap items-center justify-center gap-2 pb-8">
-        {categories.map((category: Category) => (
-          <Badge
-            key={category.id}
-            variant={activeCategory === category.id ? "default" : "secondary"}
-            className={cn(
-              "cursor-pointer px-3 py-1 text-sm font-medium",
-              activeCategory === category.id ? "" : "hover:bg-secondary/80",
-            )}
-            onClick={() => setActiveCategory(category.id)}
-          >
-            {category.name}
-          </Badge>
-        ))}
+      {/* Секция фильтров */}
+      <div className="bg-card mb-8 w-full ">
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
+          {/* Категории */}
+          {renderFilterSelect("category", "Категория", [
+            ...categories.filter((cat) => cat.id !== "all"),
+          ])}
+
+          {/* Подкатегории */}
+          {renderFilterSelect("subcategory", "Тип", filters.subcategories)}
+
+          {/* Стили */}
+          {renderFilterSelect("style", "Стиль", filters.styles)}
+
+          {/* Местоположение */}
+          {renderFilterSelect("location", "Расположение", filters.locations)}
+
+          {/* Статус */}
+          {renderFilterSelect("status", "Статус", filters.status)}
+        </div>
       </div>
 
       {/* Сетка изображений */}

@@ -9,6 +9,10 @@ export type GalleryItem = {
   description: string;
   image: string;
   category: string;
+  subcategory?: string;
+  style?: string;
+  location?: string;
+  status?: string;
 };
 
 interface GalleryCardProps {
@@ -28,7 +32,7 @@ export function GalleryCard({ item, onClick }: GalleryCardProps) {
             src={item.image}
             alt={item.title}
             fill
-            className="object-cover  transition-transform duration-300 group-hover:scale-105"
+            className="object-cover transition-transform duration-300 group-hover:scale-105"
           />
 
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-0 transition-opacity group-hover:opacity-100">

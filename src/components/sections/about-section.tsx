@@ -28,7 +28,7 @@ const AboutSection = () => {
           <StatisticCardBlock />
         </div>
       </div>
-      <Quiz />
+      {/* <Quiz /> */}
     </section>
   );
 };

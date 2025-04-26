@@ -150,15 +150,15 @@
     "collageDescription": "Создайте уникальное архитектурное решение с помощью наших инструментов визуализации и дизайна. Мы поможем воплотить ваши идеи в реальность.",
     "collageImages": [
       {
-        "src": "https://plus.unsplash.com/premium_photo-1680553492268-516537c44d91?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "src": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW50ZXJpb3J8ZW58MHx8MHx8fDA%3D",
         "alt": "Современный офис"
       },
       {
-        "src": "https://images.unsplash.com/photo-1515263487990-61b07816b324?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "src": "https://images.unsplash.com/photo-1558959356-2f36c7322d3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9kZXJuJTIwb2ZmaWNlfGVufDB8fDB8fHww",
         "alt": "Жилой комплекс"
       },
       {
-        "src": "https://images.unsplash.com/photo-1615406020658-6c4b805f1f30?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "src": "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGludGVyaW9yfGVufDB8fDB8fHww",
         "alt": "Команда архитекторов"
       },
       {
@@ -322,7 +322,7 @@
     },
     "statistics": [
       { "title": "200+", "description": "Реализованных проектов" },
-      { "title": "95%", "description": "Удовлетворенность клиентов" },
+      { "title": "95%", "description": "Счастливых клиентов" },
       { "title": "15+", "description": "Лет опыта" },
       { "title": "40+", "description": "Специалистов" }
     ],
@@ -594,30 +594,61 @@
     "categories": [
       { "id": "all", "name": "Все" },
       { "id": "projects", "name": "Проекты" },
-      { "id": "events", "name": "События" },
+      { "id": "events", "name": "Мероприятия" },
       { "id": "team", "name": "Команда" },
       { "id": "offices", "name": "Офисы" }
     ],
+    "filters": {
+      "subcategories": [
+        { "id": "residential", "name": "Жилые" },
+        { "id": "commercial", "name": "Коммерческие" },
+        { "id": "public", "name": "Общественные" },
+        { "id": "urban", "name": "Градостроительные" },
+        { "id": "interiors", "name": "Интерьеры" }
+      ],
+      "styles": [
+        { "id": "modern", "name": "Современный" },
+        { "id": "classic", "name": "Классический" },
+        { "id": "eco", "name": "Эко/устойчивый" },
+        { "id": "loft", "name": "Лофт/индустриальный" },
+        { "id": "scandinavian", "name": "Скандинавский" }
+      ],
+      "locations": [
+        { "id": "moscow", "name": "Москва" },
+        { "id": "submoscow", "name": "Подмосковье" },
+        { "id": "other", "name": "Другие регионы" },
+        { "id": "international", "name": "Международные" }
+      ],
+      "status": [
+        { "id": "completed", "name": "Завершенные" },
+        { "id": "in_progress", "name": "В процессе" },
+        { "id": "concept", "name": "Концепции" }
+      ]
+    },
     "items": [
       {
         "id": "1",
         "title": "Современный жилой дом",
         "description": "Проект частного дома в Подмосковье с акцентом на экологичность.",
         "image": "https://images.unsplash.com/photo-1619218070141-bcfeb8b93074?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
-        "category": "projects"
+        "category": "projects",
+        "subcategory": "residential",
+        "style": "modern",
+        "location": "submoscow",
+        "status": "completed"
       },
       {
         "id": "2",
         "title": "Выставка архитектуры",
         "description": "Участие в международной выставке современных архитектурных решений.",
-        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "image": "https://images.unsplash.com/photo-1564078516393-cf04bd966897?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D",
         "category": "events"
       },
       {
         "id": "3",
         "title": "Команда архитекторов",
         "description": "Наши архитекторы обсуждают новый проект в офисе.",
-        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww",
         "category": "team"
       },
       {
@@ -625,42 +656,86 @@
         "title": "Офисное здание",
         "description": "Проект современного офиса в центре Москвы.",
         "image": "https://images.unsplash.com/photo-1603294278610-b5bd0506303e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
-        "category": "projects"
+        "category": "projects",
+        "subcategory": "commercial",
+        "style": "modern",
+        "location": "moscow",
+        "status": "completed"
       },
       {
         "id": "5",
         "title": "Офис бюро",
         "description": "Наш офис в Москва-Сити, спроектированный для комфорта и вдохновения.",
         "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
-        "category": "offices"
+        "category": "offices",
+        "style": "modern",
+        "location": "moscow"
       },
       {
         "id": "6",
         "title": "Презентация проекта",
         "description": "Презентация нового жилого комплекса для инвесторов.",
-        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww",
         "category": "events"
       },
       {
         "id": "7",
         "title": "Конференция",
         "description": "Наша команда на ежегодной архитектурной конференции.",
-        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
-        "category": "events"
+        "image": "https://plus.unsplash.com/premium_photo-1688125414656-ab91164cbd1e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGludGVyaW9yJTIwZGVzaWdufGVufDB8fDB8fHww",
+        "category": "events",
+        "location": "international"
       },
       {
         "id": "8",
         "title": "Команда дизайнеров",
         "description": "Наши дизайнеры работают над концепцией нового проекта.",
-        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTkvegItvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "image": "https://plus.unsplash.com/premium_photo-1676968002767-1f6a09891350?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aW50ZXJpb3IlMjBkZXNpZ258ZW58MHx8MHx8fDA%3D",
         "category": "team"
       },
       {
         "id": "9",
         "title": "Градостроительный проект",
         "description": "Проект нового микрорайона с акцентом на устойчивое развитие.",
-        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDtw82YDHvWNLgyxqAbeQEiS4rRuFKnwMBfzXV",
-        "category": "projects"
+        "image": "https://images.unsplash.com/photo-1608303588026-884930af2559?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvamVjdHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "projects",
+        "subcategory": "urban",
+        "style": "eco",
+        "location": "other",
+        "status": "in_progress"
+      },
+      {
+        "id": "10",
+        "title": "Дизайн интерьера ресторана",
+        "description": "Проект интерьера премиального ресторана в стиле лофт.",
+        "image": "https://plus.unsplash.com/premium_photo-1661883237884-263e8de8869b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "projects",
+        "subcategory": "interiors",
+        "style": "loft",
+        "location": "moscow",
+        "status": "completed"
+      },
+      {
+        "id": "11",
+        "title": "Жилой комплекс в Подмосковье",
+        "description": "Концепция современного жилого комплекса с развитой инфраструктурой.",
+        "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFwYXJ0bWVudCUyMGNvbXBsZXh8ZW58MHx8MHx8fDA%3D",
+        "category": "projects",
+        "subcategory": "residential",
+        "style": "modern",
+        "location": "submoscow",
+        "status": "concept"
+      },
+      {
+        "id": "12",
+        "title": "Общественное пространство",
+        "description": "Проект реконструкции городской площади с зонами отдыха и зелеными насаждениями.",
+        "image": "https://images.unsplash.com/photo-1519143587129-d7ae992bc44c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG9wZW4lMjBzcGFjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "projects",
+        "subcategory": "public",
+        "style": "eco",
+        "location": "moscow",
+        "status": "in_progress"
       }
     ]
   },
@@ -1052,7 +1127,7 @@
         "id": "1",
         "title": "Конференция по современной архитектуре",
         "description": "Ежегодная конференция с докладами ведущих архитекторов отрасли.",
-        "date": "15 августа 2024",
+        "date": "15 августа 2025",
         "time": "10:00 - 18:00",
         "location": "Москва, Технопарк «Сколково»",
         "isOnline": false,
@@ -1073,7 +1148,7 @@
         "attendees": 500,
         "isFree": false,
         "price": "от 5 000 ₽",
-        "slug": "architecture-conference-2024",
+        "slug": "architecture-conference-2025",
         "isFeatured": true,
         "isUpcoming": true
       },
@@ -1081,7 +1156,7 @@
         "id": "2",
         "title": "Вебинар: Экологичный дизайн",
         "description": "Практические советы по использованию устойчивых материалов в архитектуре.",
-        "date": "20 июля 2024",
+        "date": "20 июля 2025",
         "time": "14:00 - 16:00",
         "location": "Онлайн (Zoom)",
         "isOnline": true,
@@ -1104,7 +1179,7 @@
         "id": "3",
         "title": "Воркшоп: 3D-визуализация",
         "description": "Интенсивный воркшоп по созданию реалистичных визуализаций архитектурных проектов.",
-        "date": "5 августа 2024",
+        "date": "5 августа 2025",
         "time": "11:00 - 17:00",
         "location": "Санкт-Петербург, Коворкинг «Простор»",
         "isOnline": false,
@@ -1120,7 +1195,7 @@
         "attendees": 50,
         "isFree": false,
         "price": "12 000 ₽",
-        "slug": "3d-visualization-workshop-2024",
+        "slug": "3d-visualization-workshop-2025",
         "isFeatured": true,
         "isUpcoming": true
       },
@@ -1128,7 +1203,7 @@
         "id": "4",
         "title": "Митап: Умные города",
         "description": "Обсуждение технологий и решений для создания умных городов.",
-        "date": "10 июля 2024",
+        "date": "10 июля 2025",
         "time": "19:00 - 21:30",
         "location": "Москва, Офис компании",
         "isOnline": false,
@@ -1151,7 +1226,7 @@
         "id": "5",
         "title": "Выставка: Архитектура будущего",
         "description": "Международная выставка, посвященная инновациям в архитектуре и дизайне.",
-        "date": "25-27 сентября 2024",
+        "date": "25-27 сентября 2025",
         "time": "Начало в 10:00",
         "location": "Казань, Выставочный центр",
         "isOnline": false,
@@ -1340,7 +1415,7 @@
       },
       {
         "id": 7,
-        "year": "2024",
+        "year": "2025",
         "title": "Сегодня",
         "description": "Более 200 реализованных проектов по всему миру. Мы продолжаем расти."
       }
@@ -1481,7 +1556,7 @@
         "title": "Как создать экологичный дом",
         "excerpt": "Практические советы по выбору материалов и технологий для устойчивого строительства.",
         "category": "sustainability",
-        "date": "15 декабря 2024",
+        "date": "15 декабря 2025",
         "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
         "slug": "sustainable-home-guide",
         "author": {
@@ -1495,7 +1570,7 @@
         "title": "Роль 3D-визуализации в проектировании",
         "excerpt": "Почему визуализация стала неотъемлемой частью архитектурного процесса.",
         "category": "technology",
-        "date": "5 декабря 2024",
+        "date": "5 декабря 2025",
         "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
         "slug": "3d-visualization-in-architecture",
         "author": {
@@ -1509,7 +1584,7 @@
         "title": "Дизайн интерьеров: тренды 2025",
         "excerpt": "Какие стили и решения будут популярны в оформлении интерьеров в следующем году.",
         "category": "design",
-        "date": "25 ноября 2024",
+        "date": "25 ноября 2025",
         "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
         "slug": "interior-design-trends-2025",
         "author": {

@@ -1,4 +1,7 @@
-import GalleryListBlock from "~/components/block/gallery-list-block";
+import GalleryListBlock, {
+  type FilterOption,
+  type GalleryListBlockProps,
+} from "~/components/block/gallery-list-block";
 import { contentData } from "~/lib/content-data";
 
 const GallerySection = () => {
@@ -8,7 +11,16 @@ const GallerySection = () => {
     description,
     items: galleryItems,
     categories,
+    filters,
   } = contentData.gallery;
+
+  // Приводим фильтры к правильному типу
+  const typedFilters: GalleryListBlockProps["filters"] = {
+    subcategories: (filters?.subcategories as FilterOption[]) || [],
+    styles: (filters?.styles as FilterOption[]) || [],
+    locations: (filters?.locations as FilterOption[]) || [],
+    status: (filters?.status as FilterOption[]) || [],
+  };
 
   return (
     <section className="flex flex-col" id="gallery">
@@ -17,8 +29,12 @@ const GallerySection = () => {
         <p className="text-muted-foreground max-w-2xl">{description}</p>
       </div>
 
-      {/* Компонент с галереей и фильтрацией */}
-      <GalleryListBlock galleryItems={galleryItems} categories={categories} />
+      {/* Компонент с галереей и расширенной фильтрацией */}
+      <GalleryListBlock
+        galleryItems={galleryItems}
+        categories={categories}
+        filters={typedFilters}
+      />
     </section>
   );
 };

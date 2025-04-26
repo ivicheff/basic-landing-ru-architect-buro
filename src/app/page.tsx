@@ -84,21 +84,21 @@ export default function HomePage() {
           </div>
         </section>
 
-        <PartnersSection />
-        <GallerySection />
-        <BeforeAfterSection />
-        <BeforeAfterComparisonSection />
-        <VideoSection />
-        <TeamSection />
-        <AboutSection />
         <AdvantagesSection />
+        {/* <PartnersSection /> */}
+        <GallerySection />
+        {/* <BeforeAfterSection /> */}
+        {/* <BeforeAfterComparisonSection /> */}
+        {/* <VideoSection /> */}
+        <AboutSection />
+        <TeamSection />
         {/* <IntegrationsSection /> */}
         {/* <FeaturesSection /> */}
         <AchievementsSection />
         {/* <PricingSection /> */}
         {/* <PlanComparisonSection /> */}
-        <TestimonialsSection />
-        <StepsSection />
+        {/* <TestimonialsSection /> */}
+        {/* <StepsSection /> */}
         {/* <EventsSection /> */}
         {/* <CareersSection /> */}
         <ContactsSection />

@@ -26,7 +26,7 @@ const BlogSection = () => {
       title: "10 способов увеличить эффективность вашего бизнеса",
       excerpt:
         "Практические советы, которые помогут оптимизировать рабочие процессы и повысить продуктивность команды.",
-      date: "20 июня 2024",
+      date: "20 июня 2025",
       author: {
         name: "Александр Петров",
         avatar: "/img/blog/authors/author-1.jpg",
@@ -38,10 +38,10 @@ const BlogSection = () => {
     },
     {
       id: "2",
-      title: "Тренды цифровой трансформации в 2024 году",
+      title: "Тренды цифровой трансформации в 2025 году",
       excerpt:
         "Обзор ключевых технологических тенденций, которые формируют будущее и меняют подход к ведению бизнеса.",
-      date: "15 июня 2024",
+      date: "15 июня 2025",
       author: {
         name: "Мария Сидорова",
         avatar: "/img/blog/authors/author-2.jpg",
@@ -49,14 +49,14 @@ const BlogSection = () => {
       category: "Технологии",
       commentsCount: 8,
       image: "/img/blog/post-2.jpg",
-      slug: "digital-transformation-trends-2024",
+      slug: "digital-transformation-trends-2025",
     },
     {
       id: "3",
       title: "Как построить эффективную стратегию маркетинга",
       excerpt:
         "Пошаговое руководство по созданию маркетинговой стратегии, которая привлечет клиентов и увеличит продажи.",
-      date: "10 июня 2024",
+      date: "10 июня 2025",
       author: {
         name: "Дмитрий Иванов",
         avatar: "/img/blog/authors/author-3.jpg",
