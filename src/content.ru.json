@@ -1,0 +1,1574 @@
+{
+  "links": {
+    "logo": {
+      "src": "/images/logo/puzzle.png",
+      "alt": "Логотип",
+      "link": "/",
+      "text": "Архитектурное бюро"
+    },
+    "phone": {
+      "text": "+7 (999) 987-6543",
+      "url": "tel:+79999876543"
+    },
+    "email": {
+      "text": "info@archhorizon.com",
+      "url": "mailto:info@archhorizon.com"
+    },
+    "address": {
+      "text": "123317, Москва, Пресненская наб., 12, ММДЦ «Москва-Сити»",
+      "mapUrl": "https://maps.google.com/?q=Пресненская+набережная+12+Москва"
+    },
+    "socials": {
+      "twitterUrl": "https://twitter.com/archhorizon",
+      "facebookUrl": "https://www.facebook.com/archhorizon",
+      "vkUrl": "https://vk.com/archhorizon",
+      "yandexMapsUrl": "https://yandex.ru/maps/?ll=37.618423%2C55.755826&z=17",
+      "googleMapsUrl": "https://maps.google.com/?q=Пресненская+набережная+12+Москва",
+      "instagramUrl": "https://www.instagram.com/archhorizon",
+      "linkedinUrl": "https://www.linkedin.com/company/archhorizon",
+      "telegramUrl": "https://t.me/archhorizon",
+      "whatsappUrl": "https://wa.me/archhorizon",
+      "youtubeUrl": "https://www.youtube.com/archhorizon",
+      "tiktokUrl": "https://www.tiktok.com/archhorizon",
+      "pinterestUrl": "https://www.pinterest.com/archhorizon",
+      "snapchatUrl": "https://www.snapchat.com/archhorizon",
+      "vimeoUrl": "https://www.vimeo.com/archhorizon",
+      "soundcloudUrl": "https://www.soundcloud.com/archhorizon",
+      "spotifyUrl": "https://www.spotify.com/archhorizon",
+      "appleMusicUrl": "https://www.applemusic.com/archhorizon",
+      "amazonMusicUrl": "https://www.amazonmusic.com/archhorizon",
+      "deezerUrl": "https://www.deezer.com/archhorizon",
+      "bandcampUrl": "https://www.bandcamp.com/archhorizon",
+      "mixcloudUrl": "https://www.mixcloud.com/archhorizon",
+      "soundcloudUrl": "https://www.soundcloud.com/archhorizon",
+      "spotifyUrl": "https://www.spotify.com/archhorizon",
+      "appleMusicUrl": "https://www.applemusic.com/archhorizon",
+      "amazonMusicUrl": "https://www.amazonmusic.com/archhorizon",
+      "deezerUrl": "https://www.deezer.com/archhorizon"
+    }
+  },
+  "header": {
+    "navigation": [
+      { "text": "Главная", "url": "/" },
+      { "text": "О нас", "url": "#about" },
+      { "text": "Проекты", "url": "#projects" },
+      { "text": "Отзывы", "url": "#testimonials" },
+      { "text": "FAQ", "url": "#faq" },
+      { "text": "Контакты", "url": "#contacts" }
+    ],
+    "cta": { "text": "Связаться", "url": "/#contacts" }
+  },
+  "hero": {
+    "title": "Создаем архитектуру будущего",
+    "description": "Мы разрабатываем уникальные архитектурные проекты, которые объединяют эстетику, функциональность и инновации. Наше бюро — это команда профессионалов, создающих пространства для жизни и бизнеса.",
+    "cta": { "text": "Заказать проект", "url": "/#contacts" },
+    "secondaryCta": { "text": "Узнать больше", "url": "/#about" },
+    "testimonialText": "Более 200+ клиентов доверили нам создание своих архитектурных шедевров...",
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDnR96DrTv7mOfTZSWq1sNtGuAReiVwzLynP2c",
+      "alt": "Архитектурный проект"
+    },
+    "gradientBadge": "Инновационный дизайн",
+    "gradientTitle": "Трансформируйте пространство с нашими проектами",
+    "gradientDescription": "Мы создаем архитектурные решения, которые вдохновляют, объединяют передовые технологии и учитывают уникальные потребности каждого клиента.",
+    "gradientImage": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+      "alt": "Современная архитектура"
+    },
+    "tabsBadge": "Новинка 2025",
+    "tabsTitle": "Откройте новые горизонты",
+    "tabsDescription": "Исследуйте наши архитектурные решения, от концептуального дизайна до реализации сложных проектов. Мы предлагаем полный спектр услуг для создания уникальных пространств.",
+    "tabs": [
+      {
+        "id": "feature1",
+        "title": "Концептуальный дизайн",
+        "description": "Создаем уникальные концепции, которые отражают ваш стиль и ценности.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeYb7A08uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+          "alt": "Концептуальный дизайн"
+        }
+      },
+      {
+        "id": "feature2",
+        "title": "Проектирование",
+        "description": "Разрабатываем детализированные чертежи и 3D-модели для реализации проектов.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDan7xkAOFka019tyi7IlvN6rSVo3xfwmADE2T",
+          "alt": "Проектирование"
+        }
+      },
+      {
+        "id": "feature3",
+        "title": "Реализация",
+        "description": "Контролируем процесс строительства, чтобы воплотить ваш проект в жизнь.",
+        "image": {
+          "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7zEPZCbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+          "alt": "Реализация проекта"
+        }
+      }
+    ],
+    "splitBadge": "Эстетика & Функциональность",
+    "splitTitle": "Создаем пространства, вдохновляющие на успех",
+    "splitDescription": "Наш подход сочетает инновационный дизайн, глубокое понимание потребностей клиентов и передовые технологии для создания уникальных архитектурных решений.",
+    "splitImage": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "Архитектурная трансформация"
+    },
+    "features": [
+      "Индивидуальный дизайн",
+      "Экологичные материалы",
+      "Современные технологии",
+      "Полный цикл услуг"
+    ],
+    "cardBasedBadge": "Комплексные решения",
+    "cardBasedTitle": "Выберите идеальный проект для ваших целей",
+    "cardBasedDescription": "Мы предлагаем различные типы проектов, разработанные с учетом потребностей клиентов разного масштаба. Каждое решение адаптируется под ваши задачи.",
+    "cards": [
+      {
+        "icon": "ArrowRight",
+        "title": "Частный дом",
+        "description": "Идеальное решение для создания уютного и стильного дома вашей мечты.",
+        "linkText": "Узнать больше",
+        "linkUrl": "/#projects"
+      },
+      {
+        "icon": "Heart",
+        "title": "Коммерческие здания",
+        "description": "Проектируем офисы, торговые центры и другие объекты для бизнеса.",
+        "linkText": "Узнать больше",
+        "linkUrl": "/#projects"
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Градостроительство",
+        "description": "Разрабатываем масштабные проекты для городской инфраструктуры.",
+        "linkText": "Узнать больше",
+        "linkUrl": "/#projects"
+      }
+    ],
+    "collageTitle": "Визуализируйте ваше пространство",
+    "collageDescription": "Создайте уникальное архитектурное решение с помощью наших инструментов визуализации и дизайна. Мы поможем воплотить ваши идеи в реальность.",
+    "collageImages": [
+      {
+        "src": "https://plus.unsplash.com/premium_photo-1680553492268-516537c44d91?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Современный офис"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515263487990-61b07816b324?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Жилой комплекс"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1615406020658-6c4b805f1f30?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Команда архитекторов"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1582647509711-c8aa8a8bda71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "alt": "Презентация проекта"
+      }
+    ],
+    "galleryTitle": "Наши проекты",
+    "galleryDescription": "Ознакомьтесь с портфолио наших архитектурных проектов, созданных для клиентов из различных отраслей. Каждый проект — это уникальное решение для конкретных задач.",
+    "galleryImages": [
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLFxA3eUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "alt": "Проект 1"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "alt": "Проект 2"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "alt": "Проект 3"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "alt": "Проект 4"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "alt": "Проект 5"
+      },
+      {
+        "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "alt": "Проект 6"
+      }
+    ],
+    "reviewsTitle": "Клиенты доверяют нам",
+    "reviewsDescription": "Узнайте, что говорят о нас кли-named, которые уже воплотили свои мечты с нашими архитектурными решениями.",
+    "reviewsTrust": "Более 100 довольных клиентов высоко оценили наши проекты и рекомендуют нас.",
+    "reviews": [
+      {
+        "id": "1",
+        "author": "Анна Иванова",
+        "platform": "Google Reviews",
+        "rating": 5.0,
+        "text": "Одно из лучших архитектурных бюро, с которыми мы работали. Профессиональный подход и внимание к деталям."
+      },
+      {
+        "id": "2",
+        "author": "Михаил Петров",
+        "platform": "Trustpilot",
+        "rating": 4.8,
+        "text": "Отличный сервис и поддержка. Реализовали наш проект в кратчайшие сроки. Рекомендую!"
+      },
+      {
+        "id": "3",
+        "author": "Елена Смирнова",
+        "platform": "Facebook",
+        "rating": 4.7,
+        "text": "Качественная работа, выполненная в срок. Команда всегда на связи и готова помочь."
+      },
+      {
+        "id": "4",
+        "author": "Дмитрий Козлов",
+        "platform": "Yandex",
+        "rating": 5.0,
+        "text": "Результат превзошел все ожидания. Будем продолжать сотрудничество."
+      }
+    ],
+    "avatars": {
+      "length": 7,
+      "images": [
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD53KpnOL0jtKAdR4scw9mL75HN6YXyoUO8JbF",
+        "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5ibtJUL0jtKAdR4scw9mL75HN6YXyoUO8JbF"
+      ],
+      "fallbacks": ["АИ", "МС", "ЕП", "ДК", "ОЛ", "ВН", "РМ"],
+      "alts": [
+        "Анна Иванова",
+        "Михаил Смирнов",
+        "Елена Петрова",
+        "Дмитрий Козлов",
+        "Ольга Лебедева",
+        "Виктор Николаев",
+        "Роман Морозов"
+      ]
+    },
+    "platforms": [
+      {
+        "rating": 4.9,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD5agJdNbL0jtKAdR4scw9mL75HN6YXyoUO8Jb",
+        "title": "Facebook",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.8,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD9g48c9hQ8blvnW4XY2ugMLfZ05UxcEJsPme7",
+        "title": "Google",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.7,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTebFvqktvWdkOg1qNn3L4op5zuZKVH7s06QX",
+        "title": "Yandex",
+        "linkText": "Смотреть все отзывы"
+      },
+      {
+        "rating": 4.9,
+        "link": "/#contacts",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDB9G7265m7iFdU4tY5EAnrxbD8cgPzhRQoHL0",
+        "title": "VK",
+        "linkText": "Смотреть все отзывы"
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Почему выбирают нас",
+    "description": "Мы создаем архитектурные шедевры, сочетая эстетику, функциональность и инновации.",
+    "cards": [
+      {
+        "title": "Индивидуальный подход",
+        "description": "Каждый проект разрабатывается с учетом уникальных потребностей клиента.",
+        "icon": "Zap",
+        "iconColor": "blue-400"
+      },
+      {
+        "title": "Передовые технологии",
+        "description": "Используем современные инструменты для проектирования и визуализации.",
+        "icon": "BarChart",
+        "iconColor": "orange-400"
+      },
+      {
+        "title": "Полный цикл услуг",
+        "description": "От концепции до реализации — мы сопровождаем проект на всех этапах.",
+        "icon": "HeadphonesIcon",
+        "iconColor": "rose-400"
+      },
+      {
+        "title": "Экологичный дизайн",
+        "description": "Применяем устойчивые материалы и энергоэффективные решения.",
+        "icon": "Shield",
+        "iconColor": "green-400"
+      }
+    ]
+  },
+  "about": {
+    "title": "О нашем бюро",
+    "description": [
+      "Мы — команда архитекторов и дизайнеров, стремящихся к созданию уникальных пространств. Наш опыт и страсть к инновациям позволяют and make it a priority to provide solutions that truly transform environments.",
+      "С момента основания мы реализовали десятки проектов, от частных домов до масштабных градостроительных комплексов, помогая клиентам воплощать их видение в реальность."
+    ],
+    "image": {
+      "src": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsl9CD8S1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+      "alt": "О нас"
+    },
+    "statistics": [
+      { "title": "200+", "description": "Реализованных проектов" },
+      { "title": "95%", "description": "Удовлетворенность клиентов" },
+      { "title": "15+", "description": "Лет опыта" },
+      { "title": "40+", "description": "Специалистов" }
+    ],
+    "quiz": {
+      "title": "Пройдите тест и узнайте, какой проект вам подходит",
+      "description": "Ответьте на несколько вопросов, чтобы мы могли порекомендовать оптимальный архитектурный проект для ваших целей",
+      "startButtonText": "Начать тест",
+      "nextButtonText": "Далее",
+      "prevButtonText": "Назад",
+      "resultButtonText": "Получить результат",
+      "resetButtonText": "Пройти еще раз",
+      "questions": [
+        {
+          "id": "project_type",
+          "text": "Какой тип проекта вас интересует?",
+          "options": [
+            { "id": "residential", "text": "Жилой дом" },
+            { "id": "commercial", "text": "Коммерческое здание" },
+            { "id": "urban", "text": "Градостроительный проект" }
+          ]
+        },
+        {
+          "id": "main_goal",
+          "text": "Какая основная цель вашего проекта?",
+          "options": [
+            { "id": "aesthetics", "text": "Эстетика и уникальный дизайн" },
+            { "id": "functionality", "text": "Функциональность и комфорт" },
+            {
+              "id": "sustainability",
+              "text": "Экологичность и энергоэффективность"
+            },
+            { "id": "budget", "text": "Оптимизация бюджета" }
+          ]
+        },
+        {
+          "id": "budget",
+          "text": "Какой у вас бюджет на проект?",
+          "options": [
+            { "id": "small", "text": "До 5 млн. руб." },
+            { "id": "medium", "text": "5-20 млн. руб." },
+            { "id": "large", "text": "Более 20 млн. руб." }
+          ]
+        },
+        {
+          "id": "timeline",
+          "text": "Какие у вас сроки на реализацию проекта?",
+          "options": [
+            { "id": "urgent", "text": "Срочно (до 3 месяцев)" },
+            { "id": "normal", "text": "Средний приоритет (3-6 месяцев)" },
+            {
+              "id": "longterm",
+              "text": "Долгосрочный проект (более 6 месяцев)"
+            }
+          ]
+        }
+      ],
+      "results": {
+        "default": {
+          "title": "Спасибо за ваши ответы!",
+          "description": "Наши архитекторы подготовят для вас индивидуальное предложение. Оставьте контактные данные, и мы свяжемся с вами в ближайшее время.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+          "recommendedService": "Индивидуальный проект",
+          "contactButtonText": "Связаться с нами",
+          "contactButtonLink": "/#contacts"
+        },
+        "residential": {
+          "title": "Вам подойдет проект жилого дома",
+          "description": "Мы создадим уютный и стильный дом, который станет отражением вашего образа жизни.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+          "recommendedService": "Жилой дом",
+          "contactButtonText": "Узнать больше",
+          "contactButtonLink": "/#contacts"
+        },
+        "commercial": {
+          "title": "Вам подойдет коммерческий проект",
+          "description": "Мы разработаем функциональное и современное здание для вашего бизнеса.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+          "recommendedService": "Коммерческое здание",
+          "contactButtonText": "Узнать больше",
+          "contactButtonLink": "/#contacts"
+        },
+        "urban": {
+          "title": "Вам подойдет градостроительный проект",
+          "description": "Мы создадим масштабный проект для городской инфраструктуры с учетом современных трендов.",
+          "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+          "recommendedService": "Градостроительство",
+          "contactButtonText": "Узнать больше",
+          "contactButtonLink": "/#contacts"
+        }
+      }
+    }
+  },
+  "pricing": {
+    "title": "Тарифы",
+    "description": "Мы предлагаем гибкие варианты сотрудничества для реализации ваших архитектурных идей.",
+    "calculator": {
+      "title": "Калькулятор стоимости",
+      "description": "Рассчитайте предварительную стоимость проекта, выбрав нужные параметры",
+      "buttonText": "Рассчитать",
+      "resultTitle": "Предварительная стоимость:",
+      "disclaimer": "Окончательная стоимость может отличаться и будет определена после детального анализа вашего проекта",
+      "contactUs": "Свяжитесь с нами для получения точного расчета",
+      "fields": {
+        "service": {
+          "label": "Тип проекта",
+          "placeholder": "Выберите тип проекта",
+          "options": [
+            {
+              "value": "residential",
+              "label": "Жилой дом",
+              "basePrice": 2000000
+            },
+            {
+              "value": "commercial",
+              "label": "Коммерческое здание",
+              "basePrice": 5000000
+            },
+            {
+              "value": "urban",
+              "label": "Градостроительный проект",
+              "basePrice": 10000000
+            }
+          ]
+        },
+        "duration": {
+          "label": "Длительность",
+          "placeholder": "Выберите длительность",
+          "options": [
+            { "value": "3", "label": "3 месяца", "multiplier": 1 },
+            { "value": "6", "label": "6 месяцев", "multiplier": 2 },
+            { "value": "12", "label": "12 месяцев", "multiplier": 3 }
+          ]
+        },
+        "complexity": {
+          "label": "Сложность проекта",
+          "placeholder": "Выберите сложность",
+          "options": [
+            { "value": "simple", "label": "Простой", "multiplier": 0.8 },
+            { "value": "medium", "label": "Средний", "multiplier": 1 },
+            { "value": "complex", "label": "Сложный", "multiplier": 1.5 }
+          ]
+        },
+        "urgency": {
+          "label": "Срочность",
+          "placeholder": "Выберите срочность",
+          "options": [
+            { "value": "normal", "label": "Стандартная", "multiplier": 1 },
+            { "value": "high", "label": "Высокая", "multiplier": 1.3 },
+            { "value": "urgent", "label": "Срочная", "multiplier": 1.5 }
+          ]
+        }
+      }
+    },
+    "cards": [
+      {
+        "title": "Жилой дом",
+        "description": "Проект уютного и стильного дома с учетом ваших предпочтений.",
+        "price": "От 2 000 000 ₽",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDqS2I2qNGp9xAwZSUPLY2sMXBc5o3hvRitFnd",
+        "buttonText": "Заказать",
+        "buttonUrl": "/#contacts"
+      },
+      {
+        "title": "Коммерческое здание",
+        "description": "Проект современного здания для бизнеса с акцентом на функциональность.",
+        "price": "От 5 000 000 ₽",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTEzeKNtvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "buttonText": "Заказать",
+        "buttonUrl": "/#contacts"
+      },
+      {
+        "title": "Градостроительный проект",
+        "description": "Масштабный проект для городской инфраструктуры с учетом современных стандартов.",
+        "price": "От 10 000 000 ₽",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDvfoFaxdfV6EPN8BLqWb3xCR2rAp9IdgHeThG",
+        "buttonText": "Заказать",
+        "buttonUrl": "/#contacts"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Что говорят клиенты",
+    "description": "Узнайте мнение наших клиентов о сотрудничестве с нами.",
+    "loading": "Загрузка отзывов...",
+    "error": "Ошибка при загрузке отзывов. Пожалуйста, попробуйте позже.",
+    "items": [
+      {
+        "name": "Иван Петров",
+        "jobTitle": "Владелец дома",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF",
+        "testimonial": "Этот проект полностью изменил нашу жизнь. Дом получился именно таким, как мы мечтали."
+      },
+      {
+        "name": "Анна Иванова",
+        "jobTitle": "Директор компании",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S",
+        "testimonial": "Офисное здание, спроектированное бюро, стало нашей визитной карточкой."
+      },
+      {
+        "name": "Мария Козлова",
+        "jobTitle": "Управляющий проектом",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "testimonial": "Команда бюро сделала наш проект уникальным. Очень рекомендую!"
+      },
+      {
+        "name": "Дмитрий Николаев",
+        "jobTitle": "Инвестор",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPBTUMpAkL4ENs8Kbu2DpHmxRAvq6jl1tTMFC",
+        "testimonial": "Проект был реализован в срок и превзошел ожидания."
+      },
+      {
+        "name": "Ольга Лебедева",
+        "jobTitle": "Дизайнер интерьеров",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "testimonial": "Сотрудничество с бюро вдохновило меня на новые идеи."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Наши партнеры",
+    "description": "Мы сотрудничаем с ведущими компаниями в сфере строительства и дизайна для создания уникальных проектов.",
+    "items": [
+      {
+        "id": 1,
+        "name": "Saint-Gobain",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHlzZb6sel4q5fpS9Z3G2xYOFJUaWyAQjuMwn"
+      },
+      {
+        "id": 2,
+        "name": "Knauf",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeYb7A08uRAkV4gQjlmxr5EiSUzeqF8BdbMYv"
+      },
+      {
+        "id": 3,
+        "name": "Schüco",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDan7xkAOFka019tyi7IlvN6rSVo3xfwmADE2T"
+      },
+      {
+        "id": 4,
+        "name": "Rehau",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7zEPZCbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw"
+      },
+      {
+        "id": 5,
+        "name": "Wienerberger",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDzJEEavx7TL3KFjhDr21asZIJz6Cw4kg8VoRX"
+      },
+      {
+        "id": 6,
+        "name": "LafargeHolcim",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD8w5wjzlNalKbzIqgXsrVyULnSBQP05fiOw7v"
+      },
+      {
+        "id": 7,
+        "name": "Rockwool",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDlW8Ue379KvN78dXLe4HM6DIJfbZpOm0azytE"
+      },
+      {
+        "id": 8,
+        "name": "Velux",
+        "logo": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDX7VXrCMpWevFUaN6xZlmMiIyudBTPfrtwR85"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Галерея",
+    "description": "Фотографии наших проектов, команды и мероприятий",
+    "emptyFilterMessage": "Нет изображений, соответствующих выбранным критериям",
+    "categories": [
+      { "id": "all", "name": "Все" },
+      { "id": "projects", "name": "Проекты" },
+      { "id": "events", "name": "События" },
+      { "id": "team", "name": "Команда" },
+      { "id": "offices", "name": "Офисы" }
+    ],
+    "items": [
+      {
+        "id": "1",
+        "title": "Современный жилой дом",
+        "description": "Проект частного дома в Подмосковье с акцентом на экологичность.",
+        "image": "https://images.unsplash.com/photo-1619218070141-bcfeb8b93074?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "category": "projects"
+      },
+      {
+        "id": "2",
+        "title": "Выставка архитектуры",
+        "description": "Участие в международной выставке современных архитектурных решений.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "category": "events"
+      },
+      {
+        "id": "3",
+        "title": "Команда архитекторов",
+        "description": "Наши архитекторы обсуждают новый проект в офисе.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDbrUMHtvFxOzW5JtZAUwc2qu3pMKT0GSlrPgR",
+        "category": "team"
+      },
+      {
+        "id": "4",
+        "title": "Офисное здание",
+        "description": "Проект современного офиса в центре Москвы.",
+        "image": "https://images.unsplash.com/photo-1603294278610-b5bd0506303e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "category": "projects"
+      },
+      {
+        "id": "5",
+        "title": "Офис бюро",
+        "description": "Наш офис в Москва-Сити, спроектированный для комфорта и вдохновения.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "category": "offices"
+      },
+      {
+        "id": "6",
+        "title": "Презентация проекта",
+        "description": "Презентация нового жилого комплекса для инвесторов.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDHWI1T0el4q5fpS9Z3G2xYOFJUaWyAQjuMwnT",
+        "category": "events"
+      },
+      {
+        "id": "7",
+        "title": "Конференция",
+        "description": "Наша команда на ежегодной архитектурной конференции.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
+        "category": "events"
+      },
+      {
+        "id": "8",
+        "title": "Команда дизайнеров",
+        "description": "Наши дизайнеры работают над концепцией нового проекта.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDTkvegItvWdkOg1qNn3L4op5zuZKVH7s06QXb",
+        "category": "team"
+      },
+      {
+        "id": "9",
+        "title": "Градостроительный проект",
+        "description": "Проект нового микрорайона с акцентом на устойчивое развитие.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDtw82YDHvWNLgyxqAbeQEiS4rRuFKnwMBfzXV",
+        "category": "projects"
+      }
+    ]
+  },
+  "team": {
+    "title": "Наша команда",
+    "description": "Познакомьтесь с профессионалами, которые создают архитектурные шедевры.",
+    "members": [
+      {
+        "id": 1,
+        "name": "Александр Иванов",
+        "position": "Главный архитектор",
+        "bio": "Более 15 лет опыта в архитектуре. Специалист по градостроительным проектам.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Екатерина Смирнова",
+        "position": "Ведущий дизайнер",
+        "bio": "Создает уникальные концепции, сочетая эстетику и функциональность.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Дмитрий Петров",
+        "position": "Инженер-конструктор",
+        "bio": "Отвечает за техническую реализацию сложных архитектурных решений.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "social": {
+          "linkedin": "#",
+          "twitter": "#",
+          "facebook": "#"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Мария Козлова",
+        "position": "Менеджер проектов",
+        "bio": "Координирует работу команды и обеспечивает выполнение проектов в срок.",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "social": {
+          "linkedin": "#",
+          "instagram": "#"
+        }
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Результаты наших проектов",
+    "description": "Реальные примеры трансформации пространства до и после наших архитектурных решений",
+    "labels": {
+      "before": "До",
+      "after": "После"
+    },
+    "items": [
+      {
+        "title": "Жилой дом, Подмосковье",
+        "image": "https://images.unsplash.com/photo-1691425648793-8412963f3909?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "before": "Старый участок без построек",
+        "after": "Современный дом с панорамными окнами",
+        "description": "Преобразовали пустой участок в стильный жилой дом за 10 месяцев."
+      },
+      {
+        "title": "Офис в Москве",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9kZXJuJTIwb2ZmaWNlfGVufDB8fDB8fHww",
+        "before": "Устаревшее офисное помещение",
+        "after": "Современный open-space офис",
+        "description": "Полностью обновили пространство для повышения комфорта сотрудников."
+      },
+      {
+        "title": "Торговый центр, Санкт-Петербург",
+        "image": "https://images.unsplash.com/photo-1542883339-f2680a3e3996?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFsbHxlbnwwfHwwfHx8MA%3D%3D",
+        "before": "Пустой земельный участок",
+        "after": "Многофункциональный торговый центр",
+        "description": "Создали современный торговый комплекс за 18 месяцев."
+      },
+      {
+        "title": "Коттеджный поселок, Казань",
+        "image": "https://images.unsplash.com/photo-1627847151154-4bfc6e0bf33d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "before": "Неосвоенная территория",
+        "after": "Экологичный коттеджный поселок",
+        "description": "Разработали и реализовали проект поселка с учетом природного ландшафта."
+      },
+      {
+        "title": "Реконструкция здания, Екатеринбург",
+        "image": "https://images.unsplash.com/photo-1627847151154-4bfc6e0bf33d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "before": "Заброшенное здание",
+        "after": "Многофункциональный бизнес-центр",
+        "description": "Восстановили здание и превратили его в современный бизнес-центр."
+      },
+      {
+        "title": "Парк, Новосибирск",
+        "image": "https://images.unsplash.com/photo-1461072492560-82b4f2ff2799?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+        "before": "Заросший пустырь",
+        "after": "Городской парк с зонами отдыха",
+        "description": "Создали зеленую зону для отдыха и прогулок жителей города."
+      }
+    ],
+    "cta": {
+      "text": "Заказать проект",
+      "url": "/#contacts"
+    }
+  },
+  "steps": {
+    "title": "Этапы работы",
+    "description": "Мы создаем проекты через комплексный подход, обеспечивая высокое качество на каждом этапе.",
+    "items": [
+      {
+        "title": "Анализ и концепция",
+        "description": [
+          "Мы изучаем ваши потребности, анализируем участок и разрабатываем концепцию проекта.",
+          "Создаем эскизы и визуализации, чтобы вы могли увидеть будущий результат."
+        ],
+        "number": 1,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDeGPw4K8uRAkV4gQjlmxr5EiSUzeqF8BdbMYv",
+        "reverse": false
+      },
+      {
+        "title": "Проектирование",
+        "description": [
+          "Разрабатываем детализированные чертежи, 3D-модели и техническую документацию.",
+          "Учитываем строительные нормы, экологические стандарты и ваши пожелания."
+        ],
+        "number": 2,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD0ctbjqpGogSTdPjE52zpHbq3mCFiR8wUL9sG",
+        "reverse": true
+      },
+      {
+        "title": "Реализация",
+        "description": [
+          "Контролируем процесс строительства, координируя работу подрядчиков.",
+          "Обеспечиваем соответствие проекта утвержденным чертежам и срокам."
+        ],
+        "number": 3,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDt8dd4FXHvWNLgyxqAbeQEiS4rRuFKnwMBfzX",
+        "reverse": false
+      },
+      {
+        "title": "Сдача проекта",
+        "description": [
+          "Проводим финальную проверку и передаем вам готовый объект.",
+          "Предоставляем консультации по эксплуатации и дальнейшему развитию."
+        ],
+        "number": 4,
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDVc5IxE9HhT2akm0S3v1y4lMgeGqBozDZrI7O",
+        "reverse": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Частые вопросы",
+    "description": "Ответы на популярные вопросы о наших услугах и подходе к работе.",
+    "questions": [
+      {
+        "question": "Сколько времени занимает проектирование?",
+        "answer": "Сроки зависят от сложности проекта и составляют от 1 до 6 месяцев."
+      },
+      {
+        "question": "Можно ли заказать индивидуальный проект?",
+        "answer": "Да, все наши проекты разрабатываются с учетом ваших уникальных потребностей."
+      },
+      {
+        "question": "Работаете ли вы с экологичными материалами?",
+        "answer": "Да, мы используем устойчивые материалы и энергоэффективные технологии."
+      },
+      {
+        "question": "Как вы контролируете качество строительства?",
+        "answer": "Мы проводим регулярные проверки на всех этапах реализации проекта."
+      },
+      {
+        "question": "Предоставляете ли вы визуализацию проекта?",
+        "answer": "Да, мы создаем 3D-модели и рендеры для предварительного просмотра."
+      }
+    ],
+    "callToAction": {
+      "text": "Не нашли ответ на свой вопрос? Свяжитесь с нами напрямую, и мы будем рады помочь.",
+      "button": { "text": "Связаться с нами", "url": "/#contacts" }
+    }
+  },
+  "contacts": {
+    "title": "Свяжитесь с нами",
+    "description": "Готовы обсудить ваш проект? Свяжитесь с нами для бесплатной консультации.",
+    "booking": {
+      "title": "Запись онлайн",
+      "description": "Выберите удобное время для консультации с нашим архитектором",
+      "widgetType": "yclients"
+    },
+    "form": {
+      "title": "Отправить сообщение",
+      "description": "Заполните форму ниже, и мы свяжемся с вами в ближайшее время.",
+      "fields": {
+        "name": {
+          "label": "Имя",
+          "placeholder": "Ваше имя",
+          "error": "Имя должно содержать минимум 2 символа"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Ваш email",
+          "error": "Пожалуйста, введите корректный email"
+        },
+        "message": {
+          "label": "Сообщение",
+          "placeholder": "Ваше сообщение",
+          "error": "Сообщение должно содержать минимум 10 символов"
+        }
+      },
+      "button": {
+        "default": "Отправить сообщение",
+        "loading": "Отправка..."
+      },
+      "success": "Форма успешно отправлена!",
+      "error": "Произошла ошибка при отправке формы",
+      "formcarryError": "Ошибка сервера при отправке формы",
+      "missingApiKey": "API ключ для отправки формы не настроен"
+    },
+    "beforeAfter": {
+      "title": "Результаты наших проектов",
+      "description": "Реальные примеры трансформации пространства до и после наших архитектурных решений",
+      "items": [
+        {
+          "title": "Жилой дом, Подмосковье",
+          "image": "https://images.unsplash.com/photo-1691425648793-8412963f3909?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+          "before": "Старый участок без построек",
+          "after": "Современный дом с панорамными окнами",
+          "description": "Преобразовали пустой участок в стильный жилой дом за 10 месяцев."
+        },
+        {
+          "title": "Офис в Москве",
+          "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9kZXJuJTIwb2ZmaWNlfGVufDB8fDB8fHww",
+          "before": "Устаревшее офисное помещение",
+          "after": "Современный open-space офис",
+          "description": "Полностью обновили пространство для повышения комфорта сотрудников."
+        },
+        {
+          "title": "Торговый центр, Санкт-Петербург",
+          "image": "https://images.unsplash.com/photo-1542883339-f2680a3e3996?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFsbHxlbnwwfHwwfHx8MA%3D%3D",
+          "before": "Пустой земельный участок",
+          "after": "Многофункциональный торговый центр",
+          "description": "Создали современный торговый комплекс за 18 месяцев."
+        },
+        {
+          "title": "Коттеджный поселок, Казань",
+          "image": "https://images.unsplash.com/photo-1627847151154-4bfc6e0bf33d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+          "before": "Неосвоенная территория",
+          "after": "Экологичный коттеджный поселок",
+          "description": "Разработали и реализовали проект поселка с учетом природного ландшафта."
+        },
+        {
+          "title": "Реконструкция здания, Екатеринбург",
+          "image": "https://images.unsplash.com/photo-1660502316360-327f4741d887?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+          "before": "Заброшенное здание",
+          "after": "Многофункциональный бизнес-центр",
+          "description": "Восстановили здание и превратили его в современный бизнес-центр."
+        },
+        {
+          "title": "Парк, Новосибирск",
+          "image": "https://images.unsplash.com/photo-1461072492560-82b4f2ff2799?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fG1vZGVybiUyMGJ1aWxkaW5nfGVufDB8fDB8fHww",
+          "before": "Заросший пустырь",
+          "after": "Городской парк с зонами отдыха",
+          "description": "Создали зеленую зону для отдыха и прогулок жителей города."
+        }
+      ],
+      "cta": {
+        "text": "Заказать проект",
+        "url": "/#contacts"
+      }
+    },
+    "contactInfo": {
+      "title": "Контактная информация",
+      "items": [
+        {
+          "type": "phone",
+          "label": "Телефон"
+        },
+        {
+          "type": "email",
+          "label": "Почта"
+        },
+        {
+          "type": "address",
+          "label": "Адрес"
+        }
+      ]
+    },
+    "info": {
+      "title": "Преимущества обратной связи",
+      "items": [
+        "Ответ в течение 24 часов",
+        "Индивидуальный подход к каждому клиенту",
+        "Бесплатная консультация по вашему проекту",
+        "Подбор оптимального решения для ваших задач"
+      ]
+    },
+    "mapLocation": {
+      "coordinates": [55.7495, 37.5396],
+      "zoom": 15
+    }
+  },
+  "footer": {
+    "description": "Мы создаем архитектурные решения, которые вдохновляют и трансформируют пространство",
+    "quickLinks": {
+      "title": "Быстрые ссылки",
+      "items": [
+        { "text": "Главная", "url": "/" },
+        { "text": "О нас", "url": "/#about" },
+        { "text": "Проекты", "url": "/#projects" },
+        { "text": "Отзывы", "url": "/#testimonials" },
+        { "text": "Тарифы", "url": "/#pricing" },
+        { "text": "Этапы", "url": "/#steps" }
+      ]
+    },
+    "services": {
+      "title": "Услуги",
+      "items": [
+        { "text": "Концептуальный дизайн", "url": "/#projects" },
+        { "text": "Проектирование", "url": "/#projects" },
+        { "text": "Реализация", "url": "/#projects" },
+        { "text": "Консультации", "url": "/#projects" }
+      ]
+    },
+    "contactInfo": {
+      "title": "Контакты"
+    },
+    "newsletter": {
+      "title": "Подписка на новости",
+      "description": "Подпишитесь на нашу рассылку, чтобы получать новости о новых проектах и событиях",
+      "email": {
+        "label": "Email",
+        "placeholder": "Ваш email",
+        "error": "Пожалуйста, введите корректный email"
+      },
+      "button": "Подписаться",
+      "loading": "Отправка...",
+      "success": "Вы успешно подписались на рассылку!",
+      "error": "Произошла ошибка при отправке формы",
+      "formcarryError": "Ошибка сервера при подписке на рассылку",
+      "missingApiKey": "API ключ для подписки не настроен"
+    },
+    "copyright": "© 2025 Все права защищены",
+    "legalLinks": [
+      { "text": "Условия использования", "url": "/terms-of-service" },
+      { "text": "Политика конфиденциальности", "url": "/privacy-policy" },
+      {
+        "text": "Политика использования файлов cookie",
+        "url": "/cookie-policy"
+      }
+    ]
+  },
+  "events": {
+    "title": "Архитектурные события",
+    "description": "Присоединяйтесь к нашим мероприятиям, чтобы узнать о современных тенденциях в архитектуре и дизайне",
+    "allEventsText": "Все события",
+    "featuredLabel": "Рекомендуем",
+    "speakersLabel": "Спикеры:",
+    "attendeesLabel": "участников",
+    "freeLabel": "Бесплатно",
+    "registerButtonText": "Зарегистрироваться",
+    "emptyFilterMessage": "Нет событий, соответствующих выбранным критериям",
+    "filters": {
+      "all": "Все события",
+      "upcoming": "Предстоящие",
+      "past": "Прошедшие",
+      "free": "Бесплатные",
+      "paid": "Платные",
+      "online": "Онлайн",
+      "offline": "Офлайн"
+    },
+    "eventTypes": {
+      "conference": "Конференции",
+      "webinar": "Вебинары",
+      "workshop": "Воркшопы",
+      "meetup": "Митапы",
+      "exhibition": "Выставки"
+    },
+    "items": [
+      {
+        "id": "1",
+        "title": "Конференция по современной архитектуре",
+        "description": "Ежегодная конференция с докладами ведущих архитекторов отрасли.",
+        "date": "15 августа 2024",
+        "time": "10:00 - 18:00",
+        "location": "Москва, Технопарк «Сколково»",
+        "isOnline": false,
+        "type": "conference",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDsWtyYYS1k3RZh9JcKn0xtINSGOEvpT4yiLAe",
+        "speakers": [
+          {
+            "name": "Александр Иванов",
+            "position": "Главный архитектор",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW"
+          },
+          {
+            "name": "Мария Петрова",
+            "position": "Дизайнер интерьеров",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU"
+          }
+        ],
+        "attendees": 500,
+        "isFree": false,
+        "price": "от 5 000 ₽",
+        "slug": "architecture-conference-2024",
+        "isFeatured": true,
+        "isUpcoming": true
+      },
+      {
+        "id": "2",
+        "title": "Вебинар: Экологичный дизайн",
+        "description": "Практические советы по использованию устойчивых материалов в архитектуре.",
+        "date": "20 июля 2024",
+        "time": "14:00 - 16:00",
+        "location": "Онлайн (Zoom)",
+        "isOnline": true,
+        "type": "webinar",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "speakers": [
+          {
+            "name": "Дмитрий Сидоров",
+            "position": "Архитектор",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH"
+          }
+        ],
+        "attendees": 300,
+        "isFree": true,
+        "slug": "sustainable-design-webinar",
+        "isFeatured": false,
+        "isUpcoming": true
+      },
+      {
+        "id": "3",
+        "title": "Воркшоп: 3D-визуализация",
+        "description": "Интенсивный воркшоп по созданию реалистичных визуализаций архитектурных проектов.",
+        "date": "5 августа 2024",
+        "time": "11:00 - 17:00",
+        "location": "Санкт-Петербург, Коворкинг «Простор»",
+        "isOnline": false,
+        "type": "workshop",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD4F09NookHCEIM3kgoVcGYLdTRQDJNjh6pWi1",
+        "speakers": [
+          {
+            "name": "Ольга Козлова",
+            "position": "Дизайнер",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU"
+          }
+        ],
+        "attendees": 50,
+        "isFree": false,
+        "price": "12 000 ₽",
+        "slug": "3d-visualization-workshop-2024",
+        "isFeatured": true,
+        "isUpcoming": true
+      },
+      {
+        "id": "4",
+        "title": "Митап: Умные города",
+        "description": "Обсуждение технологий и решений для создания умных городов.",
+        "date": "10 июля 2024",
+        "time": "19:00 - 21:30",
+        "location": "Москва, Офис компании",
+        "isOnline": false,
+        "type": "meetup",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKiePuoBc3G74oQiAy2daJsZFMDpft5gSYmjx",
+        "speakers": [
+          {
+            "name": "Антон Смирнов",
+            "position": "Архитектор",
+            "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW"
+          }
+        ],
+        "attendees": 80,
+        "isFree": true,
+        "slug": "smart-cities-meetup",
+        "isFeatured": false,
+        "isUpcoming": true
+      },
+      {
+        "id": "5",
+        "title": "Выставка: Архитектура будущего",
+        "description": "Международная выставка, посвященная инновациям в архитектуре и дизайне.",
+        "date": "25-27 сентября 2024",
+        "time": "Начало в 10:00",
+        "location": "Казань, Выставочный центр",
+        "isOnline": false,
+        "type": "exhibition",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDhShufzgo7wR3ZiehxQmTUYSb0XB5OEGtNcMa",
+        "speakers": [],
+        "attendees": 200,
+        "isFree": false,
+        "price": "3 000 ₽",
+        "slug": "future-architecture-exhibition",
+        "isFeatured": true,
+        "isUpcoming": true
+      }
+    ],
+    "cta": {
+      "title": "Хотите увидеть все наши мероприятия?",
+      "buttonText": "Перейти к календарю событий",
+      "buttonLink": "/#contacts"
+    },
+    "newsletter": {
+      "title": "Не пропустите новые события",
+      "description": "Подпишитесь на уведомления о новых мероприятиях и получайте информацию первыми."
+    }
+  },
+  "careers": {
+    "title": "Карьера в бюро",
+    "description": "Присоединяйтесь к нашей команде архитекторов и дизайнеров, чтобы создавать проекты мирового уровня",
+    "employmentTypes": [
+      "Полная занятость",
+      "Частичная занятость",
+      "Удаленная работа",
+      "Стажировка"
+    ],
+    "vacancies": [
+      {
+        "id": "1",
+        "title": "Архитектор",
+        "department": "Проектирование",
+        "location": "Москва",
+        "type": "Полная занятость",
+        "salary": "от 150 000 ₽",
+        "description": "Разработка архитектурных проектов от концепции до реализации.",
+        "requirements": [
+          "Опыт работы в архитектуре от 3 лет",
+          "Знание AutoCAD, Revit, 3ds Max",
+          "Понимание строительных норм",
+          "Креативное мышление"
+        ],
+        "featured": true,
+        "slug": ""
+      },
+      {
+        "id": "2",
+        "title": "Дизайнер интерьеров",
+        "department": "Дизайн",
+        "location": "Санкт-Петербург",
+        "type": "Полная занятость",
+        "salary": "от 130 000 ₽",
+        "description": "Создание уникальных интерьеров для жилых и коммерческих помещений.",
+        "requirements": [
+          "Опыт работы в дизайне интерьеров от 2 лет",
+          "Знание 3ds Max, SketchUp, Photoshop",
+          "Портфолио реализованных проектов",
+          "Чувство стиля и внимание к деталям"
+        ],
+        "featured": true,
+        "slug": ""
+      },
+      {
+        "id": "3",
+        "title": "Инженер-конструктор",
+        "department": "Проектирование",
+        "location": "Удаленная работа",
+        "type": "Полная занятость",
+        "salary": "от 140 000 ₽",
+        "description": "Разработка конструктивных решений для архитектурных проектов.",
+        "requirements": [
+          "Опыт работы инженером от 3 лет",
+          "Знание AutoCAD, Tekla",
+          "Понимание строительных стандартов",
+          "Аналитическое мышление"
+        ],
+        "featured": false,
+        "slug": ""
+      },
+      {
+        "id": "4",
+        "title": "Менеджер проектов",
+        "department": "Управление проектами",
+        "location": "Москва",
+        "type": "Полная занятость",
+        "salary": "от 160 000 ₽",
+        "description": "Координация архитектурных проектов и взаимодействие с клиентами.",
+        "requirements": [
+          "Опыт управления проектами от 3 лет",
+          "Навыки работы с проектной документацией",
+          "Коммуникабельность",
+          "Организаторские способности"
+        ],
+        "featured": false,
+        "slug": "project-manager"
+      },
+      {
+        "id": "5",
+        "title": "3D-визуализатор",
+        "department": "Дизайн",
+        "location": "Санкт-Петербург",
+        "type": "Полная занятость",
+        "salary": "от 120 000 ₽",
+        "description": "Создание реалистичных визуализаций архитектурных проектов.",
+        "requirements": [
+          "Опыт работы с 3ds Max, V-Ray, Corona",
+          "Портфолио визуализаций",
+          "Внимание к деталям",
+          "Креативность"
+        ],
+        "featured": false,
+        "slug": "3d-visualizer"
+      },
+      {
+        "id": "6",
+        "title": "Стажер-архитектор",
+        "department": "Проектирование",
+        "location": "Москва",
+        "type": "Стажировка",
+        "salary": "от 50 000 ₽",
+        "description": "Участие в разработке архитектурных проектов под руководством опытных наставников.",
+        "requirements": [
+          "Базовые знания AutoCAD, Revit",
+          "Желание учиться",
+          "Студенты старших курсов архитектурных ВУЗов",
+          "Возможность работать минимум 30 часов в неделю"
+        ],
+        "featured": true,
+        "slug": "intern-architect"
+      }
+    ],
+    "labels": {
+      "featuredBadge": "Горячая вакансия",
+      "viewMoreButton": "Подробнее",
+      "noMatchingVacanciesTitle": "Не нашли подходящую вакансию?",
+      "noMatchingVacanciesDescription": "Мы всегда ищем талантливых специалистов! Отправьте нам свое резюме, и мы свяжемся с вами, когда появится подходящая позиция.",
+      "sendResumeButton": "Отправить резюме"
+    },
+    "contactFormUrl": "/#contacts"
+  },
+  "achievements": {
+    "title": "Наши достижения",
+    "description": "Ключевые вехи в истории нашего бюро, которые сделали нас лидерами в архитектуре.",
+    "items": [
+      {
+        "id": 1,
+        "year": "2018",
+        "title": "Основание бюро",
+        "description": "Начало нашего пути с небольшой команды архитекторов и дизайнеров."
+      },
+      {
+        "id": 2,
+        "year": "2019",
+        "title": "Первый крупный проект",
+        "description": "Реализация первого жилого комплекса, который получил признание клиентов."
+      },
+      {
+        "id": 3,
+        "year": "2020",
+        "title": "Партнерство с лидерами",
+        "description": "Установили сотрудничество с ведущими производителями строительных материалов."
+      },
+      {
+        "id": 4,
+        "year": "2021",
+        "title": "Расширение команды",
+        "description": "Команда выросла до 40 специалистов, открыты офисы в двух городах."
+      },
+      {
+        "id": 5,
+        "year": "2022",
+        "title": "Международные проекты",
+        "description": "Начало работы над проектами в Европе и Азии."
+      },
+      {
+        "id": 6,
+        "year": "2023",
+        "title": "Награда за дизайн",
+        "description": "Получили престижную награду за инновационный дизайн жилого комплекса."
+      },
+      {
+        "id": 7,
+        "year": "2024",
+        "title": "Сегодня",
+        "description": "Более 200 реализованных проектов по всему миру. Мы продолжаем расти."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Сравнение тарифных планов",
+    "description": "Выберите оптимальный план для вашего архитектурного проекта.",
+    "labels": {
+      "showDetails": "Показать детали",
+      "popularChoice": "Популярно"
+    },
+    "plans": [
+      {
+        "id": "basic",
+        "title": "Базовый",
+        "price": "₽500 000",
+        "period": "проект",
+        "description": "Для небольших частных домов и реконструкций.",
+        "buttonText": "Выбрать",
+        "buttonUrl": "/#contacts",
+        "popular": false
+      },
+      {
+        "id": "pro",
+        "title": "Профессиональный",
+        "price": "₽2 000 000",
+        "period": "проект",
+        "description": "Для коммерческих зданий и жилых комплексов.",
+        "buttonText": "Выбрать",
+        "buttonUrl": "/#contacts",
+        "popular": true
+      },
+      {
+        "id": "enterprise",
+        "title": "Корпоративный",
+        "price": "₽5 000 000",
+        "period": "проект",
+        "description": "Для градостроительных проектов и крупных объектов.",
+        "buttonText": "Выбрать",
+        "buttonUrl": "/#contacts",
+        "popular": false
+      }
+    ],
+    "features": [
+      {
+        "id": "concept",
+        "name": "Концептуальный дизайн",
+        "values": {
+          "basic": "Базовый",
+          "pro": "Расширенный",
+          "enterprise": "Индивидуальный"
+        }
+      },
+      {
+        "id": "visualization",
+        "name": "3D-визуализация",
+        "values": {
+          "basic": "1 вариант",
+          "pro": "3 варианта",
+          "enterprise": "Неограниченно"
+        }
+      },
+      {
+        "id": "support",
+        "name": "Поддержка",
+        "values": {
+          "basic": "Email",
+          "pro": "Email & Телефон",
+          "enterprise": "Персональный менеджер"
+        }
+      },
+      {
+        "id": "construction",
+        "name": "Контроль строительства",
+        "values": {
+          "basic": false,
+          "pro": true,
+          "enterprise": true
+        }
+      },
+      {
+        "id": "customizations",
+        "name": "Индивидуальные доработки",
+        "values": {
+          "basic": false,
+          "pro": "Ограниченные",
+          "enterprise": "Полные"
+        }
+      },
+      {
+        "id": "timeline",
+        "name": "Сроки проектирования",
+        "values": {
+          "basic": "2-3 месяца",
+          "pro": "1-2 месяца",
+          "enterprise": "От 1 месяца"
+        }
+      },
+      {
+        "id": "consulting",
+        "name": "Консультации",
+        "values": {
+          "basic": "1 консультация",
+          "pro": "3 консультации",
+          "enterprise": "Неограниченно"
+        }
+      }
+    ]
+  },
+  "blog": {
+    "title": "Блог",
+    "description": "Полезные статьи, новости и советы по архитектуре и дизайну.",
+    "categories": [
+      { "id": "all", "name": "Все статьи" },
+      { "id": "architecture", "name": "Архитектура" },
+      { "id": "design", "name": "Дизайн" },
+      { "id": "sustainability", "name": "Экологичность" },
+      { "id": "technology", "name": "Технологии" }
+    ],
+    "posts": [
+      {
+        "id": "1",
+        "title": "Тренды современной архитектуры 2025",
+        "excerpt": "Обзор ключевых направлений в архитектуре, которые будут определять облик городов в ближайшие годы.",
+        "category": "architecture",
+        "date": "10 января 2025",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDpjYvJRdzDMoRIXu8n2PJF5gYSOvUryChZ6AW",
+        "slug": "architecture-trends-2025",
+        "author": {
+          "name": "Александр Иванов",
+          "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDPM9HItJAkL4ENs8Kbu2DpHmxRAvq6jl1tTMF"
+        },
+        "readingTime": "5 мин"
+      },
+      {
+        "id": "2",
+        "title": "Как создать экологичный дом",
+        "excerpt": "Практические советы по выбору материалов и технологий для устойчивого строительства.",
+        "category": "sustainability",
+        "date": "15 декабря 2024",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDYXWLYViNMPHarF4K5yX8z6nTO7uc2twJSZLU",
+        "slug": "sustainable-home-guide",
+        "author": {
+          "name": "Екатерина Смирнова",
+          "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDBfGsbrm7iFdU4tY5EAnrxbD8cgPzhRQoHL0S"
+        },
+        "readingTime": "7 мин"
+      },
+      {
+        "id": "3",
+        "title": "Роль 3D-визуализации в проектировании",
+        "excerpt": "Почему визуализация стала неотъемлемой частью архитектурного процесса.",
+        "category": "technology",
+        "date": "5 декабря 2024",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDLR0DNnUSV4FvuNmqdszpjxc8ETB9KUJg1kPH",
+        "slug": "3d-visualization-in-architecture",
+        "author": {
+          "name": "Дмитрий Петров",
+          "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7dAxQ6bE9LQ0VMs5dBNACDFGycK7Sv3YnJPw"
+        },
+        "readingTime": "6 мин"
+      },
+      {
+        "id": "4",
+        "title": "Дизайн интерьеров: тренды 2025",
+        "excerpt": "Какие стили и решения будут популярны в оформлении интерьеров в следующем году.",
+        "category": "design",
+        "date": "25 ноября 2024",
+        "image": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoD7BVBTPbE9LQ0VMs5dBNACDFGycK7Sv3YnJPw",
+        "slug": "interior-design-trends-2025",
+        "author": {
+          "name": "Мария Козлова",
+          "avatar": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDKgIRbaBc3G74oQiAy2daJsZFMDpft5gSYmjx"
+        },
+        "readingTime": "8 мин"
+      }
+    ],
+    "cta": {
+      "title": "Хотите больше полезных материалов?",
+      "buttonText": "Подписаться на блог",
+      "buttonLink": "/#newsletter"
+    }
+  },
+  "newsletter": {
+    "title": "Подписка на новости",
+    "description": "Получайте свежие статьи, новости и приглашения на наши мероприятия.",
+    "form": {
+      "email": {
+        "label": "Email",
+        "placeholder": "Ваш email",
+        "error": "Пожалуйста, введите корректный email"
+      },
+      "button": {
+        "default": "Подписаться",
+        "loading": "Отправка..."
+      },
+      "success": "Вы успешно подписались на рассылку!",
+      "error": "Произошла ошибка при отправке формы",
+      "formcarryError": "Ошибка сервера при подписке на рассылку",
+      "missingApiKey": "API ключ для подписки не настроен"
+    }
+  },
+  "cookieConsent": {
+    "message": "Мы используем файлы cookie для улучшения вашего опыта на сайте. Продолжая, вы соглашаетесь с нашей политикой использования cookies.",
+    "acceptButton": "Принять",
+    "declineButton": "Отклонить",
+    "learnMore": "Узнать больше",
+    "learnMoreUrl": "/cookie-policy"
+  },
+  "errorPages": {
+    "404": {
+      "title": "Страница не найдена",
+      "description": "К сожалению, страница, которую вы ищете, не существует. Возможно, она была удалена или вы ввели неверный адрес.",
+      "buttonText": "Вернуться на главную",
+      "buttonUrl": "/"
+    },
+    "500": {
+      "title": "Внутренняя ошибка сервера",
+      "description": "Произошла ошибка на сервере. Мы уже работаем над её исправлением. Пожалуйста, попробуйте снова позже.",
+      "buttonText": "Вернуться на главную",
+      "buttonUrl": "/"
+    }
+  },
+  "video": {
+    "title": "Видео",
+    "description": "Посмотрите наши видео, чтобы узнать больше о нашей работе.",
+    "thumbnail": "https://vc7v703vlt.ufs.sh/f/JPvQ68qNOfoDlvJHZPG79KvN78dXLe4HM6DIJfbZpOm0azyt",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  }
+}
